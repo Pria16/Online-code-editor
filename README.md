@@ -9,3 +9,5 @@ Syntax highlighting
 Auto-save or manual save functionality
 
 Download code snippets
+
+#This project includes html,css,javascript and python as well .
